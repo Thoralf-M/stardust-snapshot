@@ -1,0 +1,45 @@
+{
+  "ledgerIndex": 0,
+  "outputIdsWithOutput": {
+    "0x00000000000000000000000000000000000000000000000000000000000000000000": {
+      "amount": "2777530283277761",
+      "type": 3,
+      "unlockConditions": [
+        {
+          "address": {
+            "pubKeyHash": "0x15664f85080415d9081840367d6cea31885f5d929366dffdf063f1c0856baed1",
+            "type": 0
+          },
+          "type": 0
+        }
+      ]
+    },
+    "0x01000000000000000000000000000000000000000000000000000000000000000000": {
+      "amount": "1000000000000",
+      "type": 3,
+      "unlockConditions": [
+        {
+          "address": {
+            "pubKeyHash": "0x1d9e7a9f6849d9ce9282ee08775b7aee6aaf6034f12d70064d005f543b01a2f2",
+            "type": 0
+          },
+          "type": 0
+        }
+      ]
+    },
+    "0x02000000000000000000000000000000000000000000000000000000000000000000": {
+      "amount": "1000000000000",
+      "type": 3,
+      "unlockConditions": [
+        {
+          "address": {
+            "pubKeyHash": "0x60200bad8137a704216e84f8f9acfe65b972d9f4155becb4815282b03cef99fe",
+            "type": 0
+          },
+          "type": 0
+        }
+      ]
+    }
+  },
+  "treasuryOutputAmount": 0
+}
